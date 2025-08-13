@@ -48,13 +48,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-3️⃣ **Install dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-4️⃣ **Download spaCy model**
+3️⃣ **Download spaCy model**
 
 ```bash
 python -m spacy download en_core_web_sm
