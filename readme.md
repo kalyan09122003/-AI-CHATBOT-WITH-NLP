@@ -78,6 +78,11 @@ http://localhost:8501
 
 ---
 
+## Output
+<img width="960" height="483" alt="Screenshot 2025-08-13 115013" src="https://github.com/user-attachments/assets/272a6ae6-3dc9-4afe-857b-2a88b5696986" />
+
+
+
 ## 💡 Example Questions
 
 * `How many ODI hundreds does Virat Kohli have?`
@@ -94,4 +99,4 @@ http://localhost:8501
 * [pandas](https://pandas.pydata.org/) — Data handling
 * [Regex](https://docs.python.org/3/library/re.html) — Text matching
 
-"# -AI-CHATBOT-WITH-NLP" 
+
